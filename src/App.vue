@@ -7,8 +7,6 @@
     </div>
     <router-view></router-view>
   </div>
-          <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDVqrB0KN-Heg24aHQ0T5tLLA40TpPGeJ4&callback=initMap"></script>
-
 </template>
 
 <script>
